@@ -1,0 +1,15 @@
+{
+  "name": "leobeal/project",
+  "authors": [
+    {
+      "name": "Leo Beal",
+      "email": "leonardobeal@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "LeoBeal\\Project\\": "src/"
+    }
+  },
+  "require": {}
+}
